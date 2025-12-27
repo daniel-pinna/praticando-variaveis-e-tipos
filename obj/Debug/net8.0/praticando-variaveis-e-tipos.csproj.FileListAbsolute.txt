@@ -1,0 +1,14 @@
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/bin/Debug/net8.0/praticando-variaveis-e-tipos
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/bin/Debug/net8.0/praticando-variaveis-e-tipos.deps.json
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/bin/Debug/net8.0/praticando-variaveis-e-tipos.runtimeconfig.json
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/bin/Debug/net8.0/praticando-variaveis-e-tipos.dll
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/bin/Debug/net8.0/praticando-variaveis-e-tipos.pdb
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.AssemblyInfoInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.AssemblyInfo.cs
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.csproj.CoreCompileInputs.cache
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.dll
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/refint/praticando-variaveis-e-tipos.dll
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.pdb
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/praticando-variaveis-e-tipos.genruntimeconfig.cache
+/home/daniel/projetcs/alura/csharp/praticando-variaveis-e-tipos/obj/Debug/net8.0/ref/praticando-variaveis-e-tipos.dll
