@@ -1,5 +1,11 @@
 Temas praticas nestes exercícios:
 
-- Tipo de Variáveis
-- Atribuições
-- Operações Aritiméticas
+- Variáveis
+- Atribuição de Variáveis
+- Declaração de Variáveis
+- Tipo de Dados (Primitivos x Referência)
+  - Primitivos (bool, char, byte, short, int, long, float, double, decimal)
+- Operadores Aritiméticos
+- Conversão de Tipos
+  - Implícita
+  - Explícita
