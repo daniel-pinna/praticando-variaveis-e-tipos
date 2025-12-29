@@ -1,4 +1,4 @@
-Temas abordados nas aulas:
+Temas praticas nestes exercícios:
 
 - Tipo de Variáveis
 - Atribuições
